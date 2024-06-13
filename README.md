@@ -1,7 +1,4 @@
 # Black Jack
-## MAPUTE ANDRAE M
-## CMSC12 
-## Final Project: Blackjack Game with Leaderboard
 
 ## Overview
 
